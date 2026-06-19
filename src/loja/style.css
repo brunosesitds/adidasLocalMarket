@@ -1,0 +1,48 @@
+:root{
+    --pretoazul: #22223B;
+    --cinzaescuro: #4A4E69;
+    --cinzaclaro: #9A8C98;
+    --marromclaro: 201, 173, 167;
+    --bege: 242, 233, 228;
+    --errorbg: lightpink;
+    --texto: #ffffff;
+    --dark: #00000000;
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:"Roboto", sans-serif;;
+}
+
+
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+
+.produtos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
