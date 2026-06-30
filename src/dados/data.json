@@ -1,23 +1,152 @@
 [
     {
         "id": 1,
-        "desc": "Água Azul",
-        "imagem": "../../public/aguaazul.webp",
-        "valor": 250.00
+        "desc": "Adidas Ultraboost 22",
+        "imagem": "../../public/produtos/tenis1.avif",
+        "valor": 499.90
     },
-
     {
         "id": 2,
-        "desc": "Água Verde",
-        "imagem": "../../public/aguaverde.webp",
-        "valor": 2.43
+        "desc": "Adidas NMD_R1",
+        "imagem": "../../public/produtos/tenis2.avif",
+        "valor": 359.90
     },
-
     {
         "id": 3,
-        "desc": "Água Rosa",
-        "imagem": "../../public/aguavermelha.webp",
-        "valor": 6767.67
+        "desc": "Adidas Superstar",
+        "imagem": "../../public/produtos/tenis3.avif",
+        "valor": 429.90
+    },
+    {
+        "id": 4,
+        "desc": "Adidas Gazelle",
+        "imagem": "../../public/produtos/tenis4.avif",
+        "valor": 299.90
+    },
+    {
+        "id": 5,
+        "desc": "Adidas Adilette Slides",
+        "imagem": "../../public/produtos/tenis5.avif",
+        "valor": 529.90
+    },
+    {
+        "id": 6,
+        "desc": "Adidas Forum Low",
+        "imagem": "../../public/produtos/tenis6.avif",
+        "valor": 379.90
+    },
+    {
+        "id": 7,
+        "desc": "Adidas ZX 2K Boost",
+        "imagem": "../../public/produtos/tenis7.avif",
+        "valor": 449.90
+    },
+    {
+        "id": 8,
+        "desc": "Adidas Stan Smith",
+        "imagem": "../../public/produtos/tenis8.avif",
+        "valor": 419.90
+    },
+    {
+        "id": 9,
+        "desc": "Adidas Terrex Swift",
+        "imagem": "../../public/produtos/tenis9.avif",
+        "valor": 249.90
+    },
+    {
+        "id": 10,
+        "desc": "Adidas Solar Glide",
+        "imagem": "../../public/produtos/tenis10.avif",
+        "valor": 599.90
+    },
+    {
+        "id": 11,
+        "desc": "Adidas AlphaEDGE 4D",
+        "imagem": "../../public/produtos/tenis11.avif",
+        "valor": 679.90
+    },
+    {
+        "id": 12,
+        "desc": "Adidas Continental 80",
+        "imagem": "../../public/produtos/tenis12.avif",
+        "valor": 339.90
+    },
+    {
+        "id": 13,
+        "desc": "Adidas Samba OG",
+        "imagem": "../../public/produtos/tenis13.avif",
+        "valor": 389.90
+    },
+    {
+        "id": 14,
+        "desc": "Adidas Runfalcon",
+        "imagem": "../../public/produtos/tenis14.avif",
+        "valor": 459.90
+    },
+    {
+        "id": 15,
+        "desc": "Adidas X Crazyfast",
+        "imagem": "../../public/produtos/tenis15.avif",
+        "valor": 519.90
+    },
+    {
+        "id": 16,
+        "desc": "Adidas Supernova",
+        "imagem": "../../public/produtos/tenis16.avif",
+        "valor": 319.90
+    },
+    {
+        "id": 17,
+        "desc": "Adidas Adizero Boston",
+        "imagem": "../../public/produtos/tenis17.avif",
+        "valor": 479.90
+    },
+    {
+        "id": 18,
+        "desc": "Adidas Ultraboost Light",
+        "imagem": "../../public/produtos/tenis18.avif",
+        "valor": 529.90
+    },
+    {
+        "id": 19,
+        "desc": "Adidas Ozweego",
+        "imagem": "../../public/produtos/tenis19.avif",
+        "valor": 599.90
+    },
+    {
+        "id": 20,
+        "desc": "Adidas COPA Mundial",
+        "imagem": "../../public/produtos/tenis20.avif",
+        "valor": 389.90
+    },
+    {
+        "id": 21,
+        "desc": "Adidas NMD_V3",
+        "imagem": "../../public/produtos/tenis21.avif",
+        "valor": 439.90
+    },
+    {
+        "id": 22,
+        "desc": "Adidas Terrex Free Hiker",
+        "imagem": "../../public/produtos/tenis22.avif",
+        "valor": 479.90
+    },
+    {
+        "id": 23,
+        "desc": "Adidas Pureboost",
+        "imagem": "../../public/produtos/tenis23.avif",
+        "valor": 559.90
+    },
+    {
+        "id": 24,
+        "desc": "Adidas 4DFWD",
+        "imagem": "../../public/produtos/tenis24.avif",
+        "valor": 629.90
+    },
+    {
+        "id": 25,
+        "desc": "Adidas Forum Tech",
+        "imagem": "../../public/produtos/tenis25.avif",
+        "valor": 749.90
     }
-
 ]

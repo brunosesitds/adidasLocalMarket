@@ -37,18 +37,22 @@
     gap: 100px;
 }
 
-
-.produtos{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 100px;
-}
-
 .perfil{
     width: 94%;
-    display: flex;
+    max-width: 1200px;
+    margin: 0 auto 20px;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
     align-items: center;
-    justify-content: space-between;
+    justify-items: center;
+    gap: 16px;
+}
 
-}   
+.perfil .dados{
+    justify-self: start;
+}
+
+.perfil .carrinho{
+    justify-self: end;
+}
+
