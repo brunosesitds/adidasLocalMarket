@@ -45,6 +45,7 @@
     grid-template-columns: 1fr auto 1fr;
     align-items: center;
     justify-items: center;
+    padding-bottom: 2vh;
 }
 
 .perfil .dados{
@@ -56,12 +57,27 @@
     justify-self: end;
 }
 
-.produtos{
+.produtos, .lojaa{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin: 80px;
+}
+
+.lojaa{
+    background: url(../../public/Captura\ de\ tela\ 2026-06-30\ 110428.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    padding-top: 2vh;
+    padding-bottom: 60vh;
+    color: black;
+}
+
+.produtos{
+    padding-top: 7vh;
+    padding-bottom: 2vh;
 }
 
 
