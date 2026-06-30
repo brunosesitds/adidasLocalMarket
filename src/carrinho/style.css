@@ -5,6 +5,13 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 #pedido{
     display: none;
     position: absolute;
@@ -30,4 +37,28 @@
 .btn-word:hover{
     cursor: pointer;
     opacity: 0.6;
+}
+
+.header{
+    background-color: rgb(188, 196, 196);
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    color: white;
+    padding: 10px 30px;
+    gap: 20px;
+    width: 100%;
+}
+
+
+.list{
+    background-color: rgb(144, 141, 151);
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10vh;
+    padding: 20px;
+    gap: 20px;
 }

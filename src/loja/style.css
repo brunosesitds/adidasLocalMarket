@@ -38,21 +38,33 @@
 }
 
 .perfil{
-    width: 94%;
-    max-width: 1200px;
+    width: 100%;
+    max-width: 1900px;
     margin: 0 auto 20px;
     display: grid;
     grid-template-columns: 1fr auto 1fr;
     align-items: center;
     justify-items: center;
-    gap: 16px;
 }
 
 .perfil .dados{
     justify-self: start;
+    font-size: 15px;
 }
 
 .perfil .carrinho{
     justify-self: end;
 }
 
+.produtos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 80px;
+}
+
+
+.btn{
+    background-color: black !important;
+}
